@@ -1,1 +1,2 @@
 Test 02 
+Test 03 - VSCode connected to test server
